@@ -28,4 +28,4 @@ uhqeifhiuqwefqewhu qweuiqf fquhuiqwehqhui
 
 [Google](https://www.google.es/ "Titulo opcional")
 
-![walter]( "Walter")
+![walter](https://github.com/MaksymDerezyuk/RepositorioDePrueba/blob/main/walter.jpg "Walter")
