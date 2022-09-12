@@ -28,4 +28,4 @@ uhqeifhiuqwefqewhu qweuiqf fquhuiqwehqhui
 
 [Google](https://www.google.es/ "Titulo opcional")
 
-![walter](https://i.pinimg.com/474x/de/76/3c/de763cb00463bc03c8a453d6de3caaaf.jpg "Walter")
+![walter]( "Walter")
